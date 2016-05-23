@@ -1,2 +1,2 @@
 # Learning-RUBY
-Learning Ruby programming
+Starting to learn Ruby programming !!
